@@ -1,6 +1,7 @@
-# 2016 Election Data
+# 2016 Campaign Data
 
-This repository contains relational data describing the 2016 US Presidential Election.
+This repository contains relational data describing
+ the 2016 US Presidential Election.
 
 It currently includes information about candidates and their YouTube videos.
 
@@ -20,4 +21,4 @@ Import the .csv files into a DBMS, or parse with a scripting language.
 
 ### Schema Diagram
 
-![an entity-relationship diagram](design/erd.svg)
+![entity relationship diagram](design/erd.svg)
